@@ -1,0 +1,4 @@
+Contact: mailto:security@schwarzwaldauraretreat.example
+Expires: 2027-07-03T10:56:54.262Z
+Preferred-Languages: en, de, fr
+Canonical: https://example.com/.well-known/security.txt
