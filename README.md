@@ -1,0 +1,2 @@
+# schwarzwaldauraretreat
+Static site: schwarzwaldauraretreat
